@@ -206,7 +206,7 @@ class Example extends Phaser.Scene
         const mapheight = data.layers[0].height;
 
         const centerX = 325; //650/2
-        const centerY = 40;
+        const centerY = 20;
 
         let i = 0;
 
